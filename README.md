@@ -9,11 +9,11 @@
 ### Contributors
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/jean1042"><img src="https://avatars.githubusercontent.com/u/25656426?v=4" width="100px;" alt=""/><br /><sub><b>박지윤</b></sub></a><br /><a>👩‍🔧<br>BE<br>데이터 파이프라인 담당자</a></td>
-    <td align="center"><a href="https://github.com/gineepark"><img src="https://avatars.githubusercontent.com/u/60264957?v=4" width="100px;" alt=""/><br /><sub><b>박진희</b></sub></a><br /><a\>🧑‍💼<br>FE<br>모니터링 담당자</a></td>
-    <td align="center"><a href="https://github.com/WESTZERO115"><img src="https://avatars.githubusercontent.com/u/65750746?v=4" width="100px;" alt=""/><br /><sub><b>박서영</b></sub></a><br /><a\>🙋‍♂️<br>CI/CD<br>모니터링 담당자</a></td>
-   <td align="center"><a href="https://github.com/squareBird"><img src="https://avatars.githubusercontent.com/u/56094903?v=4" width="100px;" alt=""/><br /><sub><b>오정규</b></sub></a><br /><a\>🙋‍♂️<br>CI/CD<br>자동화 및 무중단배포 담당자</a></td>
+    <td align="center"><a href="https://github.com/jean1042"><img src="https://avatars.githubusercontent.com/u/25656426?v=4" width="100px;" alt=""/><br /><sub><b>박서영</b></sub></a><br /><a>👩‍🔧<br>BE<br>데이터 파이프라인 담당자</a></td>
+    <td align="center"><a href="https://github.com/gineepark"><img src="https://avatars.githubusercontent.com/u/60264957?v=4" width="100px;" alt=""/><br /><sub><b>오정규</b></sub></a><br /><a\>🧑‍💼<br>FE<br>모니터링 담당자</a></td>
+    <td align="center"><a href="https://github.com/WESTZERO115"><img src="https://avatars.githubusercontent.com/u/65750746?v=4" width="100px;" alt=""/><br /><sub><b>이동선</b></sub></a><br /><a\>🙋‍♂️<br>CI/CD<br>모니터링 담당자</a></td>
+   <td align="center"><a href="https://github.com/squareBird"><img src="https://avatars.githubusercontent.com/u/56094903?v=4" width="100px;" alt=""/><br /><sub><b>임찬</b></sub></a><br /><a\>🙋‍♂️<br>CI/CD<br>자동화 및 무중단배포 담당자</a></td>
    <td align="center"><a href="https://github.com/jungmir"><img src="https://avatars.githubusercontent.com/u/61821253?v=4" width="100px;" alt=""/><br /><sub><b>정미르</b></sub></a><br /><a\>🤵‍♀️<br>BE<br>자동화 및 무중단 배포 담당자</a></td>
-   <td align="center"><a href="https://github.com/noelleland"><img src="https://avatars.githubusercontent.com/u/59186248?v=4" width="100px;" alt=""/><br /><sub><b>김노은</b></sub></a><br /><a\>🤵‍♀️<br>어떤 담당자!?</a></td>
+   <td align="center"><a href="https://github.com/noelleland"><img src="https://avatars.githubusercontent.com/u/59186248?v=4" width="100px;" alt=""/><br /><sub><b></b></sub></a><br /><a\>🤵‍♀️<br>어떤 담당자!?</a></td>
   </tr>
   </table>
