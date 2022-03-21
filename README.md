@@ -1,9 +1,9 @@
 # Devops-Homepage
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=CloudClub%20Homepage&fontAlign=50&fontAlignY=40&color=gradient&fontSize=40)
 
-클라우드 클럽 1기 **<Cloud Native Projects를 이용한 K8S 환경구축>** 스터디의 클라우드 클럽 홈페이지 구축 프로젝트입니다.
+클라우드 클럽 1기 **<Devops>** 스터디의 클라우드 클럽 홈페이지 구축 프로젝트입니다.
 <br>
-근데 이제 스타트업 향을 살짝 곁들인.
+
 
 <br><br>
 ### Contributors
