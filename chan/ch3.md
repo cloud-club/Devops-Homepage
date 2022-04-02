@@ -1,4 +1,4 @@
-![Alt text](/chan/image/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4.png)
+![쿠버네티스](/Devops-Homepage/chan/image/쿠버네티스.png)
 
 Chapter 3
 =========
