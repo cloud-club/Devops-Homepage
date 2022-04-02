@@ -36,7 +36,7 @@ Vagrant.configure("2") do |config| # "2"는 베이그런트에서 루비로 코�
   #=============#
 
     config.vm.define "m-k8s" do |cfg| # 버추어박스에서 보이는 가상 머신을 "m-k8s"로 정의하고, do |cfg|를 추가해 원하는 설정으로 변경합니다. 
-    #이렇게 do|이름|으로 시작한 작업은 end로 종료합니다.
+    # 이렇게 do|이름|으로 시작한 작업은 end로 종료합니다.
       cfg.vm.box = "sysnet4admin/CentOS-k8s" # 기본값 config.vm.box를 do |cfg|에 적용한 내용을 받아 cfg.vm.box로 변경합니다.
       cfg.vm.provider "virtualbox" do |vb| 
       # 베이그런트의 프로바이더가 버추얼박스라는 것을 정의합니다. 
